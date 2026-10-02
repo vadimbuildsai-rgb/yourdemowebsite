@@ -1,0 +1,22 @@
+Pasadena Gardening & Tree Service — demo illustrative imagery rights
+====================================================================
+All photos are stock / illustrative. They do NOT depict Pasadena Gardening
+& Tree Service premises, staff, equipment, or completed work. Each use is
+labeled “Illustrative imagery” on the page.
+
+hero.jpg — Unsplash photo-1502082553048-f009c37129b9
+  Subject: mature trees / canopy outdoor setting
+  License: Unsplash License (https://unsplash.com/license)
+  Use: Hero section
+
+about.jpg — Unsplash photo-1557429287-b2e26467fc2b
+  Subject: cottage garden / flower beds
+  License: Unsplash License
+  Use: About section
+
+garden-tools.jpg — Unsplash photo-1416879595882-3373a0480b5b
+  Subject: gardening tools / potting soil
+  License: Unsplash License
+  Use: Services strip
+
+Service icons — original inline SVG in index.html; no third-party photo rights.
